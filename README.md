@@ -7,6 +7,10 @@ Flashcard app that displays a question and when you tap on it, it displays the c
 
 <img src="https://imgur.com/slrIupg.gif" width=200><br>
 
+#### First Optional Task
+<img src="https://imgur.com/a/FKMXbPO.gif" width=200><br>
+
+
 ## Required
 - [x] Create New Project in Android Studio
 - [x] Add a view for the front side of the flashcard to display the question
