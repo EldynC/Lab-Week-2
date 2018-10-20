@@ -10,6 +10,9 @@ Flashcard app that displays a question and when you tap on it, it displays the c
 #### First Optional Task
 <img src="https://imgur.com/yKVSKxf.gif" width=200><br>
 
+#### Second Optional Task
+<img src="https://i.imgur.com/AkQN5dg.gif" width=200><br>
+
 
 ## Required
 - [x] Create New Project in Android Studio
