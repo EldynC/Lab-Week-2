@@ -8,7 +8,7 @@ Flashcard app that displays a question and when you tap on it, it displays the c
 <img src="https://imgur.com/slrIupg.gif" width=200><br>
 
 #### First Optional Task
-<img src="https://imgur.com/a/FKMXbPO.gif" width=200><br>
+<img src="https://imgur.com/yKVSKxf.gif" width=200><br>
 
 
 ## Required
