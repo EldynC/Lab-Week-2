@@ -13,6 +13,18 @@ Flashcard app that displays a question and when you tap on it, it displays the c
 #### Second Optional Task
 <img src="https://i.imgur.com/AkQN5dg.gif" width=200><br>
 
+#### Third Optional Task
+<img src="https://i.imgur.com/ehNtdlr.gif" width=200><br>
+
+#### Fourth Optional Task
+<img src="https://i.imgur.com/jTpZRoZ.gif" width=200><br>
+
+#### Fifth Optional Task
+<img src="https://i.imgur.com/jbcwSYM.gif" width=200><br>
+
+#### Sixth Optional Task
+<img src="https://i.imgur.com/xWfq7mk.gif" width=200><br>
+
 
 ## Required
 - [x] Create New Project in Android Studio
@@ -21,8 +33,8 @@ Flashcard app that displays a question and when you tap on it, it displays the c
 - [x] Build in logic to show the answer side when the card is tapped
 - [x] Push code to GitHub
 ## Optional
-- [ ] toggle the flashcard between the question side and the answer side
-- [ ] Style the question and answer side of the card to better distinguish between the two sides
-- [ ] Add selectable multiple choice answers beneath the card
-   - [ ] Change the background color of the multiple choice answers when clicked to indicate whether the question waanswered correctly
-- [ ] Further customize and style the card
+- [x] toggle the flashcard between the question side and the answer side
+- [x] Style the question and answer side of the card to better distinguish between the two sides
+- [x] Add selectable multiple choice answers beneath the card
+- [x] Change the background color of the multiple choice answers when clicked to indicate whether the question waanswered correctly
+- [x] Further customize and style the card
